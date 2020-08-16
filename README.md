@@ -8,7 +8,7 @@
 
 * Find Pokemon by name
 * Find Next Pokemon
-* Find Previus Pokemon
+* Find Previous Pokemon
 
 ## Base URL
 
