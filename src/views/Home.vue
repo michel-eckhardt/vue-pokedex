@@ -80,7 +80,7 @@ export default {
         .get("https://pokeapi.co/api/v2/pokemon/" + param)
         .then((resp) => {
           this.pokemonUrl =
-            "https://pokeres.bastionbot.org/images/pokemon/" +
+            "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/"+
             resp.data.id +
             ".png";
 
